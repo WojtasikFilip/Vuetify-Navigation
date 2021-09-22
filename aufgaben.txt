@@ -1,0 +1,4 @@
+Aufgabe 1: Ist die Reihenfolge, in der die Komponenten im obigen Codebeispiel aufgeführt werden, egal?
+
+Ja die Reihenfolge ist egal z.B. der Footer kann auch an erster Stelle stehen und wird 
+trotzdem wie gewohnt angezeigt.
